@@ -1,0 +1,20 @@
+version: "2"
+services:
+  jekyll:
+    image: jekyll/jekyll:4.2.0
+    user: "${UID}:${GID}"
+    command: >
+      jekyll serve \
+      --watch \
+      --force_polling \
+      --drafts \
+      --unpublished \
+      --future \
+      --verbose \
+      --trace \
+      --strict_front_matter \
+      -d /tmp/_site
+    ports:
+      - 4000:4000  # Serves the site on port 4001. Change this if you have other apps running on that port
+    volumes:
+      - .:/srv/jekyll  # Mount the project into the pwd of the Docker container
