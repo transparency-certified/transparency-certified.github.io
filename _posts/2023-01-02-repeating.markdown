@@ -9,6 +9,7 @@ description: |
   data, code, and methods used to obtain computational results. However, without
   verification by repeating computations, there is no guarantee that provided
   artifacts are complete or can actually be used to produce reported results.
+  <a href="/trace-specification/docs/barriers.html">Learn more...</a>
   </p>
 
 ---
