@@ -14,13 +14,22 @@ description: > # "Building trust in computational research by certifying the tra
 # Build settings
 markdown: kramdown
 permalink: pretty
+markdown_ext: "markdown,md"
 
 # ----------------------- #
 #   3rd Party Settings    #
 # ----------------------- #
 
 social:
-  - title: twitter
-    url: https://twitter.com/wholetale
+  - title: slack
+    icon: slack
+    url: https://join.slack.com/t/wholetale/shared_invite/enQtNDM1OTg2ODU5MzUxLWJmZTg2MDQyOGNlYzY0ODZmYmFiN2ExZTI0NmZlMzZiZDFiNjU3MTFiYTZhODQwMDNlNTBjZGZhZWY0ZjFkZTk
   - title: github
+    icon: github
     url: https://github.com/transparency-certified/
+  - title: twitter
+    icon: twitter
+    url: https://twitter.com/wholetale
+  - title: email
+    icon: envelope
+    url: mailto:transparencycertified@gmail.com
