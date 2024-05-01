@@ -17,87 +17,83 @@ Duties and responsibilities
 
 -  Develop and maintain Python scripts to integrate running arbitrary statistical analysis through trusted mechanisms.
 
-    Develop, test, and maintain configurations (Github and Bitbucket YAML) to automatically or on-demand trigger trusted computing.
+-  Develop, test, and maintain configurations (Github and Bitbucket YAML) to automatically or on-demand trigger trusted computing.
 
-    Develop, test, and maintain SLURM configurations (for local SLURM cluster, for arbitrary third-party HPC systems) to use trusted computing mechanisms.
+-  Develop, test, and maintain SLURM configurations (for local SLURM cluster, for arbitrary third-party HPC systems) to use trusted computing mechanisms.
 
-    Adapt existing economics replication packages to fit within such systems.
+-   Adapt existing economics replication packages to fit within such systems.
 
-    Write papers that describe setup and outcomes of such systems.
+-   Write papers that describe setup and outcomes of such systems.
 
 Knowledge/Experience required
 
-    Must have advanced Python experience
+-   Must have advanced Python experience
 
-    Must have understanding of statistical programming languages (R a requirement, Stata and Julia a plus)
+-   Must have understanding of statistical programming languages (R a requirement, Stata and Julia a plus)
 
-    Ability to write test suites in appropriate frameworks;
+-   Ability to write test suites in appropriate frameworks;
 
-    Good debugging and troubleshooting skills
+-   Good debugging and troubleshooting skills
 
-    Demonstrated ability to communicate with students/faculty as needed in a timely manner
+-   Demonstrated ability to communicate with students/faculty as needed in a timely manner
 
-    Coursework and experience in major programming languages – preferred
+-   Coursework and experience in major programming languages – preferred
 
-    Knowledge of HPC systems a plus
+-   Knowledge of HPC systems a plus
 
-    Knowledge of Docker a plus
+-   Knowledge of Docker a plus
 
-    Knowledge of SLURM a plus
+-   Knowledge of SLURM a plus
 
-    Knowledge of Continuous Integration backends (Bitbucket Pipelines, Github Actions) a plus
+-   Knowledge of Continuous Integration backends (Bitbucket Pipelines, Github Actions) a plus
 
-    Knowledge of Azure-based systems a plus
+-   Knowledge of Azure-based systems a plus
 
 Location
 
-ILR School - Ives Hall, Ithaca, New York Campus.
+- ILR School - Ives Hall, Ithaca, New York Campus.
 
 Supervisor
 
-Lars Vilhuber (lv39) will serve as immediate supervisor.
-
-Sara Brooks (seb349) will be timecard approver.
-
-Title of Position: 
-Student Computer Asst III
+- Lars Vilhuber
 
 Start Date: 
-05/20/2024
+
+- 05/20/2024
 
 End Date: 
-08/15/2024
+
+- 08/15/2024
 
 Scheduled Weekly Hours: 
-35
 
-Manager:
-Sara E Brooks
-
-Contact Name: 
-Sara Brooks
+- 35
 
 Number of Openings: 
-2
+
+- 2
 
 Compensation:
-$15.85 - $19.60
+
+- $15.85 - $19.60
 
 Pay Rate Type: 
-Hourly
+
+- Hourly
 
 Federal Work Study Eligible:
-Yes
+
+- Yes
 
 EEO Statement: 
 
-Diversity and inclusion are a part of Cornell University’s heritage. We are a recognized employer and education valuing AA/EEO and we do not tolerate discrimination based on any protected characteristic, including race ethnic or national origin, citizenship and immigration status, color, sex/gender, pregnancy or pregnancy related conditions, age, creed, religion, actual or perceived disability (including persons associated with such a person), arrest and/or conviction record, military or veteran status, sexual orientation, gender expression and/or identity, an individual’s genetic information, domestic violence victim status, familial status, marital status, or any other characteristic protected by applicable federal, state, or local law. We also recognize a lawful preference in employment practices for Native Americans living on or near reservations in accordance with applicable law.
+- Diversity and inclusion are a part of Cornell University’s heritage. We are a recognized employer and education valuing AA/EEO and we do not tolerate discrimination based on any protected characteristic, including race ethnic or national origin, citizenship and immigration status, color, sex/gender, pregnancy or pregnancy related conditions, age, creed, religion, actual or perceived disability (including persons associated with such a person), arrest and/or conviction record, military or veteran status, sexual orientation, gender expression and/or identity, an individual’s genetic information, domestic violence victim status, familial status, marital status, or any other characteristic protected by applicable federal, state, or local law. We also recognize a lawful preference in employment practices for Native Americans living on or near reservations in accordance with applicable law.
 
 Cornell University embraces diversity and seeks candidates who will contribute to a climate that supports students, faculty, and staff from all identities and backgrounds. We encourage individuals from underrepresented and/or marginalized identities to apply.
 
 Cornell Student Wage and Classification Scale:
 
-To learn more about positions and pay please see https://studentemployment.cornell.edu/jobs/wages-and-classifications. The final rate of pay will be determined by prior relevant work or industry experience and unique applicable skills.
+- To learn more about positions and pay please see https://studentemployment.cornell.edu/jobs/wages-and-classifications. The final rate of pay will be determined by prior relevant work or industry experience and unique applicable skills.
 
 Employment Assistance:
 
