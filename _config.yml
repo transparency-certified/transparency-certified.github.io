@@ -6,6 +6,7 @@ url: https://transparency-certified.github.io/
 title: TRAnsparency CErtified (TRACE)
 email: your-email@domain.com
 description: > # "Building trust in computational research by certifying the transparency of results."
+hero_image: /img/trace-bg.jpg
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -15,6 +16,19 @@ description: > # "Building trust in computational research by certifying the tra
 markdown: kramdown
 permalink: pretty
 markdown_ext: "markdown,md"
+
+collections:
+  jobs:
+    output: true
+    permalink: /:collection/:name
+
+defaults:
+  - scope:
+      path: ""
+      type: "jobs"
+    values:
+      layout: "job"
+
 
 # ----------------------- #
 #   3rd Party Settings    #
@@ -39,6 +53,8 @@ social:
 # ----------------------- #
 
 menu:
+  - title: Home
+    url: "/"
   - title: Specification
     url: "/trace-specification/docs/specifications.html"
   - title: Infrastructure
@@ -47,3 +63,11 @@ menu:
     url: "#about"
   - title: Contact
     url: "#contact"
+
+footer:
+  - img: "/img/UoI_wordmark.png"
+    alt: "University of Illinois wordmark"
+  - img: "/img/Cornell_wordmark.svg"
+    alt: "Cornell University wordmark"
+  - img: "/img/UNC_wordmark.png"
+    alt: "University of North Carolina wordmark"
