@@ -3,21 +3,17 @@
     <div class="container">
       <div class="row">
         <div class="row justify-content-md-center">
+          {% for item in site.footer %}
+          {% if forloop.first %}
           <div class="col col-md-offset-3 col-md-2">
-            <img class="img-responsive"
-                 src="img/UoI_wordmark.png"
-                 alt="University of Illinois wordmark">
-          </div>
+            {% else %}
           <div class="col col-md-2">
+            {% endif %}
             <img class="img-responsive"
-                 src="img/Cornell_wordmark.svg"
-                 alt="Cornell University wordmark">
+                 src="{{ item.img | relative_url }}"
+                 alt="{{ item.alt }}">
           </div>
-          <div class="col col-md-2">
-            <img class="img-responsive"
-                 src="img/UNC_wordmark.png"
-                 alt="University of North Carolina wordmark">
-          </div>
+          {% endfor %}
         </div>
         <p class="copyright m-0 text-center text-muted small">
         This material is based upon work supported by the National Science Foundation

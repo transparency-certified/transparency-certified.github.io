@@ -63,3 +63,11 @@ menu:
     url: "#about"
   - title: Contact
     url: "#contact"
+
+footer:
+  - img: "/img/UoI_wordmark.png"
+    alt: "University of Illinois wordmark"
+  - img: "/img/Cornell_wordmark.svg"
+    alt: "Cornell University wordmark"
+  - img: "/img/UNC_wordmark.png"
+    alt: "University of North Carolina wordmark"
