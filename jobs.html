@@ -1,0 +1,62 @@
+---
+layout: default
+title: Jobs at TRACE&
+subTitle: We have intership opportunities.
+---
+
+<!-- Page Content -->
+{% for post in site.jobs %}
+  {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
+    {% if thecycle == 'odd' %}
+    <div class="content-section-a">
+
+        <div class="container">
+
+            <div class="row">
+                <div class="col-lg-8">
+                    <hr class="section-heading-spacer">
+                    <div class="clearfix"></div>
+                    <h2 class="section-heading">{{ post.title }}</h2>
+                    <p class="lead">
+                    <a href="{{ post.url | relative_url }}" alt="Link to full description">{{ post.description }}</a> </p>
+                </div>
+                <div class="col-lg-4" style="padding-top: 10%; padding-left: 10%">
+                    <img class="img-responsive"
+                    src="{{ post.img | relative_url }}"
+                    alt="{{ post.alt }}">
+                </div>
+            </div>
+
+        </div>
+        <!-- /.container -->
+
+    </div>
+    <!-- /.content-section-a -->
+    {% else %}
+
+    <div class="content-section-b">
+
+        <div class="container">
+
+            <div class="row">
+                <div class="col-lg-3  text-center" style="padding-top: 10%;">
+                    <img class="img-responsive"
+                    src="{{ post.img | relative_url }}"
+                    alt="{{ post.alt }}">
+                </div>
+                <div class="col-lg-8">
+                    <hr class="section-heading-spacer">
+                    <div class="clearfix"></div>
+                    <h2 class="section-heading">{{ post.title }}</h2>
+                    <p class="lead">
+                    <a href="{{ post.url | relative_url }}" alt="Link to full description">{{ post.description }}</a></p>
+                </div>
+            </div>
+
+        </div>
+        <!-- /.container -->
+
+    </div>
+    <!-- /.content-section-b -->
+    {% endif %}
+{% endfor %}

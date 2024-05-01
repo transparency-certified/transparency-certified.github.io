@@ -1,9 +1,9 @@
 ---
 title: Summer internship at Cornell University 
+img: "/img/Cornell_wordmark.svg"
+alt: "Cornell University wordmark"
 description: |
-  <p class="lead">
-  Contact Lars.
-  </p>
+  Internship at Cornell University, Ithaca, NY (Cornell students only)
 ---
 
 Participate in research on how to build trust in computational research in social sciences. This is a NSF-funded Research Experience for Undergraduates internship position. Applicant must be U.S. citizens, U.S. nationals, or U.S. permanent residents, be present in the US for the duration of the internship, and be a current undergraduate student at Cornell.
