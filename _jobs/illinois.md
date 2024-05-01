@@ -3,7 +3,5 @@ title: Summer internship at University of Illinois
 img: "/img/UoI_wordmark.png"
 alt: "University of Illinois wordmark"
 description: |
-  <p class="lead">
   Internship opportunity at University of Illinois, Urbana-Champaign. UI students only.
-  </p>
 ---
