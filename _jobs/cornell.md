@@ -7,13 +7,15 @@ description: |
   Internship at Cornell University, Ithaca, NY (Cornell students only)
 ---
 
-Participate in research on how to build trust in computational research in social sciences. This is a NSF-funded Research Experience for Undergraduates internship position. Applicant must be U.S. citizens, U.S. nationals, or U.S. permanent residents, be present in the US for the duration of the internship, and be a current undergraduate student at Cornell.
+Participate in research on how to build trust in computational research in social sciences. This is a NSF-funded Research Experience for Undergraduates internship position. **Applicant must be U.S. citizens, U.S. nationals, or U.S. permanent residents, be present in the US for the duration of the internship, and be a current undergraduate student at Cornell.**
 
-Purpose of the position
+> To apply: [https://www.myworkday.com/cornell/d/inst/15$158872/9925$81757.htmld](https://www.myworkday.com/cornell/d/inst/15$158872/9925$81757.htmld)
+
+## Purpose of the position
 
 Research, support, and build mechanism that allow for automated trusted computing in economics and more broadly social science research. You will participate in activities that focus on defining structured and actionable technical specifications; implement such specifications in continuous integration (CI) systems (on Bitbucket and Azure) and in HPC systems (SLURM clusters); and write papers describing such mechanisms. For more information on the project, see https://transparency-certified.github.io/
 
-Duties and responsibilities
+## Duties and responsibilities
 
 -  Develop and maintain Python scripts to integrate running arbitrary statistical analysis through trusted mechanisms.
 
@@ -25,7 +27,7 @@ Duties and responsibilities
 
 -   Write papers that describe setup and outcomes of such systems.
 
-Knowledge/Experience required
+## Knowledge/Experience required
 
 -   Must have advanced Python experience
 
@@ -49,21 +51,23 @@ Knowledge/Experience required
 
 -   Knowledge of Azure-based systems a plus
 
-Location
+## Location
 
 - ILR School - Ives Hall, Ithaca, New York Campus.
 
-Supervisor
+## Supervisor
 
 - Lars Vilhuber
 
-Start Date: 
+## Start Date: 
 
 - 05/20/2024
 
-End Date: 
+## End Date: 
 
 - 08/15/2024
+
+## Additional information 
 
 Scheduled Weekly Hours: 
 
