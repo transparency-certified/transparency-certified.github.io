@@ -6,6 +6,7 @@ url: https://transparency-certified.github.io/
 title: TRAnsparency CErtified (TRACE)
 email: your-email@domain.com
 description: > # "Building trust in computational research by certifying the transparency of results."
+hero_image: /img/trace-bg.jpg
 
 # ----------------------- #
 #    Jekyll & Plugins     #

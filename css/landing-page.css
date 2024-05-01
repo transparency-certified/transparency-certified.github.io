@@ -35,7 +35,7 @@ h6 {
     padding-top: 20px;
     text-align: center;
     color: #FFFFFF;
-    background: url(../img/trace-bg.jpg) no-repeat center center;
+    background: url({{ site.hero_image | relative_url }}) no-repeat center center;
     box-shadow: inset 0 0 0 1000px rgba(0,0,0,.5);
     background-size: cover;
     background-color: #000000;
