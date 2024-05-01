@@ -16,6 +16,19 @@ markdown: kramdown
 permalink: pretty
 markdown_ext: "markdown,md"
 
+collections:
+  jobs:
+    output: true
+    permalink: /:collection/:name
+
+defaults:
+  - scope:
+      path: ""
+      type: "jobs"
+    values:
+      layout: "job"
+
+
 # ----------------------- #
 #   3rd Party Settings    #
 # ----------------------- #
