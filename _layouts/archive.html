@@ -1,8 +1,10 @@
----
-layout: default
-title: Jobs at TRACE
-subTitle: We have intership opportunities.
----
+<!DOCTYPE html>
+<html>
+	{% include head.html %}
+
+	<body>
+		{% include header.html %}
+		
 
 <!-- Page Content Archive -->
 {% for post in site.jobs %}
@@ -60,3 +62,11 @@ subTitle: We have intership opportunities.
     <!-- /.content-section-b -->
     {% endif %}
 {% endfor %}
+
+		
+{% include about.html %}
+{% include contact.html %}
+{% include footer.html %}
+{% include js.html %}
+</body>
+</html>
