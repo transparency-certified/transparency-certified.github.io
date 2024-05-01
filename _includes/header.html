@@ -12,22 +12,17 @@
             <a class="navbar-brand" href="#">{{ site.title }}</a>
         </div>
         <!-- Collect the nav links, forms, and other content for toggling -->
+        {% if site.menu.size > 0 %}
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right">
+                {% for link in site.menu %}
                 <li>
-                    <a href="/trace-specification/docs/specifications.html">Specification</a>
+                    <a href="{{ link.url }}">{{ link.title }}</a>
                 </li>
-                <li>
-                    <a href="/trace-specification/">Infrastructure</a>
-                </li>
-                <li>
-                    <a href="#about">About</a>
-                </li>
-                <li>
-                    <a href="#contact">Contact</a>
-                </li>
+                {% endfor %}
             </ul>
         </div>
+        {% endif %}
         <!-- /.navbar-collapse -->
     </div>
     <!-- /.container -->

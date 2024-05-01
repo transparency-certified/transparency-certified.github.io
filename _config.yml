@@ -33,3 +33,17 @@ social:
   - title: email
     icon: envelope
     url: mailto:transparencycertified@gmail.com
+
+# ----------------------- #
+#   Custom stuff          #
+# ----------------------- #
+
+menu:
+  - title: Specification
+    url: "/trace-specification/docs/specifications.html"
+  - title: Infrastructure
+    url: "/trace-specification/"
+  - title: About
+    url: "#about"
+  - title: Contact
+    url: "#contact"
