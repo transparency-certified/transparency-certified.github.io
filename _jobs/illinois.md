@@ -1,4 +1,5 @@
 ---
+layout: job
 title: Summer internship at University of Illinois
 img: "/img/UoI_wordmark.png"
 alt: "University of Illinois wordmark"

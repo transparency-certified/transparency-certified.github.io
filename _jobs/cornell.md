@@ -1,4 +1,5 @@
 ---
+layout: job
 title: Summer internship at Cornell University 
 img: "/img/Cornell_wordmark.svg"
 alt: "Cornell University wordmark"
@@ -8,15 +9,13 @@ description: |
 
 Participate in research on how to build trust in computational research in social sciences. This is a NSF-funded Research Experience for Undergraduates internship position. Applicant must be U.S. citizens, U.S. nationals, or U.S. permanent residents, be present in the US for the duration of the internship, and be a current undergraduate student at Cornell.
 
-   
-
 Purpose of the position
 
 Research, support, and build mechanism that allow for automated trusted computing in economics and more broadly social science research. You will participate in activities that focus on defining structured and actionable technical specifications; implement such specifications in continuous integration (CI) systems (on Bitbucket and Azure) and in HPC systems (SLURM clusters); and write papers describing such mechanisms. For more information on the project, see https://transparency-certified.github.io/
 
 Duties and responsibilities
 
-    Develop and maintain Python scripts to integrate running arbitrary statistical analysis through trusted mechanisms.
+-  Develop and maintain Python scripts to integrate running arbitrary statistical analysis through trusted mechanisms.
 
     Develop, test, and maintain configurations (Github and Bitbucket YAML) to automatically or on-demand trigger trusted computing.
 
