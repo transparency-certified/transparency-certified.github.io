@@ -6,3 +6,5 @@ alt: "University of Illinois wordmark"
 description: |
   Internship opportunity at University of Illinois, Urbana-Champaign. UI students only.
 ---
+
+Internship opportunity at University of Illinois, Urbana-Champaign. UI students only.
