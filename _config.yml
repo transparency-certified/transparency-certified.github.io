@@ -58,7 +58,7 @@ menu:
   - title: Jobs
     url: "/jobs/"
   - title: Specification
-    url: "/trace-specification/docs/specifications.html"
+    url: "/trace-specification/docs/specifications/"
   - title: Infrastructure
     url: "/trace-specification/"
   - title: About
